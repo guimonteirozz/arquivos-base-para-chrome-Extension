@@ -1,2 +1,5 @@
-# arquivos-base-para-chrome-Extension
- 
+# Arquivos base para fazer um chrome-Extension
+
+```
+git clone
+```
